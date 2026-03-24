@@ -11,7 +11,7 @@ node {
     def MAVEN_TOOL         = "Maven3"
     def SONAR_SERVER       = "SonarQube"
 
-    def SONAR_PROJECT_KEY  = "Salary-API"
+    def SONAR_PROJECT_KEY  = "SCA-SAARTHI"
     def SONAR_PROJECT_NAME = "Salary-API"
 
     def SLACK_CHANNEL      = "#ci-operation-notifications"
